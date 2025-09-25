@@ -115,5 +115,5 @@ Ce projet met en place une API REST sécurisée pour gérer, suivre et administr
   - `schema.sql` : schéma de la base H2
 
 ## 🧑‍💻 Auteur
-- **Nahuel Vainer** – [Ton GitHub](https://github.com/Nayel9)
-- **LinkedIn** – [Ton LinkedIn](https://www.linkedin.com/in/nahuel-vainer-0bbb48165)
+- **Nahuel Vainer** – [Mon GitHub](https://github.com/Nayel9)
+- **LinkedIn** – [Mon LinkedIn](https://www.linkedin.com/in/nahuel-vainer-0bbb48165)
